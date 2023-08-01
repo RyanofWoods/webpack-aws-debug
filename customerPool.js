@@ -1,0 +1,3 @@
+// ...
+
+export { Auth, Hub } from 'aws-amplify';

@@ -1,0 +1,13 @@
+{
+  "name": "webpack-test",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "aws-amplify": "4.2.1",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
+  },
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  }
+}
